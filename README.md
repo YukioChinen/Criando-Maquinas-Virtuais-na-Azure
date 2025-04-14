@@ -12,4 +12,5 @@ OpEx: Gastos operacionais contínuos.
 
 Modelo Baseado em Consumo:
 Você paga apenas pelos recursos utilizados, promovendo eficiência e escalabilidade.
-Ao criar algum recurso no Azure que obedece o SLA, quanto maior for a porcentagem do SLA, menor será o tempo de inatividade. 
+
+Ao aumentar a porcentagem do SLA (Service Level Agreement), menor será o tempo de inatividade disponível. De mesmo modo, também aumenta a precisão e a demanda do servidor. 
